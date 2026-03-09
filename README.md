@@ -1,6 +1,6 @@
 ## GTK
 
-El programa crea una ventana utilizando la librería GTK
+Hay un botón en la ventana principal que muestra un mensaje al presionar el botón
 
 ## Para compilar:
 
