@@ -12,4 +12,4 @@ gcc main.c `pkg-config --cflags --libs gtk+-3.0` -o programa
 
 ## Captura 
 
-![Aplicación GTK](gtk.jpg)
+![GTK](gtk.jpg)
